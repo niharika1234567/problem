@@ -32,7 +32,37 @@
                  </ul>
                  <p><a styke="text-decoration:none;color:orange;"
                     href="#">click Here</a></p>
+                    body {
+    background-color: lightgrey;
+  }
+  h1, p {
+    color:blue;
+    text-align:center;
+    font-size: 48px;
+    font-family:Arial;
 
-                 
+  } 
+
+  p.bluetext {
+    color:blue;
+    text-align:justify;
+    font-size 14px;
+    font-family:Arial;
+
+    p.greentext {
+        color:green;
+        text-align:justify;
+        font-size 14px;
+        font-family:Arial;
+
+        ul.squarebullet {
+          list-style-type:square;
+        }
+        ul.squarebullet {
+          list-style-type:circle;
+        }
+        ul.squarebullet {
+          list-style-type:disc;
+        }     
         </body>
         </html>
