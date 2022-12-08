@@ -1,15 +1,38 @@
-<DOCTTYPE html>
+<!DOCTYPE = html>
 <html>
-<head>
-<body>
-<p><b>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</b> Nam condimentum pretium nulla, a euismod ligula placerat eu. Duis posuere sem est, ac laoreet 
-mi efficitur id. Maecenas consectetur, sapien non tempor consectetur, justo augue fermentum massa, ut malesuada sapien justo a nunc. Morbi tempor eget 
-libero elementum consequat. Pellentesque elit sem, dapibus tempus ipsum porta, sollicitudin hendrerit lacus. Interdum et malesuada fames ac ante ipsum 
-primis in faucibus. Interdum et malesuada fames ac ante ipsum primis in faucibus. Nam tincidunt condimentum magna. Curabitur rhoncus odio in mollis 
-pharetra. Suspendisse non ipsum enim. Nunc ut quam eros. Vivamus a rhoncus odio, eu molestie elit.Sed finibus dui vel velit convallis aliquet. Phasellus 
-blandit, sem faucibus convallis pulvinar, neque elit venenatis lacus, eu vestibulum enim justo ut sapien. Maecenas leo ipsum, iaculis non bibendum eu, 
-feugiat vel nibh. Sed sit amet ullamcorper felis. Nunc vulputate tristique cursus. Ut auctor aliquam mauris, eu rhoncus ante euismod vitae. Duis sed mi 
-at dolor facilisis consequat a convallis turpis. Aliquam hendrerit in lectus ac condimentum. Quisque at neque vehicula, tempor lorem vel, iaculis ipsum.</p>
-</html>
-</head>
-</body>
+    <head>
+    <title>Newgen</title>
+    <link rel="stylesheet" href="css/style.css" type="text/css">
+    </head>
+        <style>
+           
+            a{
+                color:red;
+                font-family:Verdana,Geneva,Tahoma,sans-serif;
+                text-align:right;
+                font-size:48px ;
+            }
+        </style>
+        <body>
+            <h1 style="color:blue;font-size:48px;text-align:center; font-family:arial;">NEWGEN</h1><hr>
+        <p style="font-family:arial;color:red">Newgen is the leading provider of a unified digital transformation platform with native processinnovative Product Suite Enabling Digital Transformation
+             management capabilities. Globally, successful enterprises rely on Newgens industry-recognized low code application platform to develop and deploy complex,
+             content-driven, and customer-engaging business applications on the cloud.<br></br> Our products and applications have been recognized by the top analyst firms,
+              including Gartner and Forrester. Successful Implementations Worldwide For nearly three decades, Newgen has been driving digital transformation initiatives
+               and delivering superior customer experience with our industry-specific applications, available on cloud, on-premises, and in hybrid environments.
+                Our platform-based products seamlessly integrate with virtually any internal and external systems, to ensure that our customers maximize their ROI
+                 from existi automation, content services, and communication ng investments, while staying compliant and future-ready.</p>
+                
+                 <ul><b>web technologies</b>
+                    <li>html</li>
+                    <li>css</li>
+                    <li>javascript</li>
+                    <li>php</li>
+                    <li>sql</li>
+                 </ul>
+                 <p><a styke="text-decoration:none;color:orange;"
+                    href="#">click Here</a></p>
+
+                 
+        </body>
+        </html>
